@@ -1,0 +1,18 @@
+@media screen and (max-width:600px) and (min-width:300px){
+    .column{
+        height:630px;
+        width: 300px;
+        /* border: 1px solid red; */
+        background-color: rgb(232, 232, 232);
+    }
+    .user{
+        width: 350px;
+    }
+    .user:focus{
+        border: 3px green solid;
+        outline: none;
+    }
+    .butn{
+       width: 350px;
+    }
+}

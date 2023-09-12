@@ -1,0 +1,25 @@
+.godaddylogo{
+    width: 200px;
+    height: 60px;
+    /* border: 1px solid red; */
+}
+.user{
+    width: 450px;
+}
+.user:focus{
+    border: 3px green solid;
+    outline: none;
+}
+.butn{
+    width: 450px;
+    height: 40px;
+   
+}
+.column{
+    height: 610px;
+    width: 700px;
+    /* border: 1px solid red; */
+    background-color: rgb(232, 232, 232);
+   
+   
+}

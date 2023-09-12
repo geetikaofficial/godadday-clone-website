@@ -1,0 +1,22 @@
+.templates:hover{
+    transition: 2s;
+    transform: scale(1.05);
+    
+}
+.templates{
+    border-radius: 10px;
+}
+.font{
+    opacity: 0.7;
+    
+    font-size: 15px;
+    cursor: pointer;
+   
+}
+.font1:hover{
+    text-decoration: underline;
+    
+}
+.sec{
+    padding: 30px;
+}
